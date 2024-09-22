@@ -1,5 +1,4 @@
 # TIC-TAC-TOE-
-
 ![minimax](https://github.com/user-attachments/assets/201180f0-cb38-4a8d-a649-7f2fd368241c)
 
 
